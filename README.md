@@ -30,7 +30,7 @@ I design and build AI systems. Not tools, not demos — full systems. The kind t
 
 My background is engineering, but my thinking is systems-level. Before I write a line of code, I map the business process, find where the biggest leverage is, and design around that. Then I build it and ship it.
 
-I've delivered 20+ production AI systems — voice agents processing hundreds of leads monthly, multi-agent LinkedIn engines that scaled a network while maintaining zero violations, WhatsApp assistants resolving 93% of queries without human input. Every one of them runs live, not as a proof of concept.
+I've delivered 100+ production AI systems — voice agents processing hundreds of leads monthly, multi-agent LinkedIn engines that scaled a network while maintaining zero violations, WhatsApp assistants resolving 93% of queries without human input. Every one of them runs live, not as a proof of concept.
 
 **What I'm working on now:**
 - AI infrastructure at Trilles AI

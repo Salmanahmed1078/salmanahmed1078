@@ -1,13 +1,11 @@
 <div align="center">
 
-<h2>Hey, I'm Salman 👋</h2>
+
+<h1>Hey, I'm Salman 👋</h1>
 
 
 
-
-
-
-<h1>Co-Founder & CTO @ Trilles AI</h1>
+<h2>Co-Founder & CTO @ Trilles AI</h2>
 <br/>
 
 

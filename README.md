@@ -193,12 +193,6 @@ I've delivered 100+ production AI systems — voice agents processing hundreds o
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Salmanahmed1078&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6e40c9&text_color=c9d1d9&icon_color=FF6B35&theme=tokyonight" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salmanahmed1078&layout=compact&hide_border=true&bg_color=0D1117&title_color=6e40c9&text_color=c9d1d9&theme=tokyonight" height="175"/>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=Salmanahmed1078&theme=tokyonight&hide_border=true&background=0D1117&stroke=6e40c9&ring=6e40c9&fire=FF6B35&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9" height="175"/>
 
 <br/><br/>

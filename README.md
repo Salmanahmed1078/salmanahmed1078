@@ -193,9 +193,9 @@ I've delivered 100+ production AI systems — voice agents processing hundreds o
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Salmanahmed1078&theme=tokyonight" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Salmanahmed1078&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6e40c9&text_color=c9d1d9&icon_color=FF6B35&theme=tokyonight" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Salmanahmed1078&theme=tokyonight" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salmanahmed1078&layout=compact&hide_border=true&bg_color=0D1117&title_color=6e40c9&text_color=c9d1d9&theme=tokyonight" height="175"/>
 
 <br/><br/>
 

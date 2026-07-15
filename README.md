@@ -1,8 +1,16 @@
 <div align="center">
 
-**Hey, I'm Salman** 👋 &nbsp;·&nbsp; <sub>Co-founder & CTO @ Trilles AI</sub>
+<h2>Hey, I'm Salman 👋</h2>
 
+
+
+
+
+
+<h1>Co-Founder & CTO @ Trilles AI</h1>
 <br/>
+
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=900&color=6E40C9&center=true&vCenter=true&width=600&lines=AI+Agentic+Systems+Engineer;Voice+AI+%7C+Multi-Agent+%7C+Automation;I+design+systems+that+run+businesses)](https://github.com/Salmanahmed1078)
 

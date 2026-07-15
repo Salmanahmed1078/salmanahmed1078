@@ -4,14 +4,14 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=6E40C9&center=true&vCenter=true&width=900&lines=AI+Agentic+Systems+Engineer;I+design+and+build+systems+that+run+businesses;Voice+AI+%7C+Multi-Agent+Pipelines+%7C+End-to-End+Automation)](https://github.com/Salmanahmed1078)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=900&color=6E40C9&center=true&vCenter=true&width=600&lines=AI+Agentic+Systems+Engineer;Voice+AI+%7C+Multi-Agent+%7C+Automation;I+design+systems+that+run+businesses)](https://github.com/Salmanahmed1078)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salman-ahmed-ahmed/)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~017fbf31a92f487cff)
 [![Trilles AI](https://img.shields.io/badge/trillesai.com-6e40c9?style=for-the-badge&logoColor=white)](https://www.trillesai.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmansalu1078@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmanbusiness1078@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Salmanahmed1078&style=for-the-badge&color=6e40c9&label=Profile+Views)](https://github.com/Salmanahmed1078)
 
 </div>
@@ -187,13 +187,17 @@ I've delivered 20+ production AI systems — voice agents processing hundreds of
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Salmanahmed1078&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" height="175"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Salmanahmed1078&theme=tokyonight" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salmanahmed1078&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" height="175"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Salmanahmed1078&theme=tokyonight" height="175"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Salmanahmed1078&theme=tokyonight&hide_border=true&background=0D1117&stroke=6e40c9&ring=6e40c9&fire=FF6B35&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9" height="175"/>
+<img src="https://streak-stats.demolab.com?user=Salmanahmed1078&theme=tokyonight&hide_border=true&background=0D1117&stroke=6e40c9&ring=6e40c9&fire=FF6B35&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9" height="175"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Salmanahmed1078&bg_color=0d1117&color=6e40c9&line=6e40c9&point=FF6B35&area=true&hide_border=true" width="100%"/>
 
 </div>
 

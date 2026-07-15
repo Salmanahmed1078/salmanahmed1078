@@ -1,13 +1,16 @@
 <div align="center">
 
-<h2>Hey, I'm Salman 👋</h2>
-<h1>Co-founder & CTO @ Trilles AI</h1>
+**Hey, I'm Salman** 👋 &nbsp;·&nbsp; <sub>Co-founder & CTO @ Trilles AI</sub>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=AI+Agentic+Systems+Engineer;I+build+AI+that+runs+businesses%2C+not+just+tasks;Voice+AI+%7C+Multi-Agent+Systems+%7C+Automation+at+Scale)](https://github.com/Salmanahmed1078)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=6E40C9&center=true&vCenter=true&width=900&lines=AI+Agentic+Systems+Engineer;I+design+and+build+systems+that+run+businesses;Voice+AI+%7C+Multi-Agent+Pipelines+%7C+End-to-End+Automation)](https://github.com/Salmanahmed1078)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salman-ahmed-ahmed/)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~017fbf31a92f487cff)
+[![Trilles AI](https://img.shields.io/badge/trillesai.com-6e40c9?style=for-the-badge&logoColor=white)](https://www.trillesai.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmansalu1078@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Salmanahmed1078&style=for-the-badge&color=6e40c9&label=Profile+Views)](https://github.com/Salmanahmed1078)
 
@@ -17,29 +20,29 @@
 
 ## Who I Am
 
-I'm an AI Engineer and technical founder. As CTO of Trilles AI, I've shipped 20+ production AI systems across voice, automation, lead gen, and content.
+I design and build AI systems. Not tools, not demos — full systems. The kind that replace operational bottlenecks, run 24/7, and connect every part of a business from lead generation to closing to reporting.
 
-What makes me different: I can sit across from a business owner, audit their ops, pinpoint where AI closes the gap, design the system, and ship it. I don't hand off specs to someone else. I build the thing.
+My background is engineering, but my thinking is systems-level. Before I write a line of code, I map the business process, find where the biggest leverage is, and design around that. Then I build it and ship it.
 
-I work at the intersection of deep technical execution and business systems thinking. That combination is rare, and it's what I bring to every project.
+I've delivered 20+ production AI systems — voice agents processing hundreds of leads monthly, multi-agent LinkedIn engines that scaled a network while maintaining zero violations, WhatsApp assistants resolving 93% of queries without human input. Every one of them runs live, not as a proof of concept.
 
-**Right now I'm focused on:**
-- Building AI agent infrastructure at Trilles AI
-- Voice AI pipelines for sales, support, and qualification teams
-- Multi-agent systems that run end-to-end without supervision
+**What I'm working on now:**
+- AI infrastructure at Trilles AI
+- Voice AI pipelines for sales and qualification
+- Multi-agent systems designed to operate without supervision
 
 ---
 
 ## What I Build
 
-| | Area | What That Means in Practice |
+| | What | How It Works in Practice |
 |---|---|---|
-| 🤖 | **AI Agents & Multi-Agent Systems** | Pipelines built on CrewAI, LangGraph, and AutoGen where agents plan, delegate, and execute real tasks |
-| 🎙️ | **Voice AI** | Inbound and outbound AI callers (Vapi, Retell, LiveKit, Twilio) that qualify leads, handle objections, and move deals forward |
-| ⚡ | **Workflow Automation** | n8n, Make, and Zapier systems connecting LLMs, CRMs, APIs, and databases built to run without babysitting |
-| 🧠 | **Business Intelligence** | Automated lead scoring, analytics pipelines, and reporting that surfaces decisions rather than just data |
-| 🌐 | **Full-Stack AI Products** | Next.js and React frontends backed by AI with real-time dashboards and CRM integrations |
-| 🎬 | **Generative Media Pipelines** | Product images to UGC videos to ad creatives, fully automated at scale |
+| 🧠 | **AI Agents & Multi-Agent Systems** | Agents built on CrewAI, LangGraph, and AutoGen that plan, delegate, and execute across real business workflows |
+| 🎙️ | **Voice AI Systems** | Inbound and outbound AI callers via Vapi, RetellAI, LiveKit, and Twilio that qualify leads and move deals through pipelines |
+| ⚡ | **Workflow Automation** | n8n, Make, and Zapier systems that wire together LLMs, CRMs, APIs, and databases to run without babysitting |
+| 📊 | **Business Intelligence** | Pipelines that score leads, generate reports, and surface decisions rather than just data |
+| 🌐 | **Full-Stack AI Products** | React and Next.js frontends with AI backends, real-time dashboards, and CRM integrations |
+| 🎬 | **Generative Media Pipelines** | Automated systems that go from product brief to UGC video to ad creative at scale |
 
 ---
 
@@ -62,7 +65,7 @@ I work at the intersection of deep technical execution and business systems thin
 ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
 
-**Voice & Communications AI**
+**Voice & Communications**
 
 ![Vapi](https://img.shields.io/badge/Vapi-5865F2?style=for-the-badge&logoColor=white)
 ![RetellAI](https://img.shields.io/badge/RetellAI-00D4AA?style=for-the-badge&logoColor=white)
@@ -71,7 +74,7 @@ I work at the intersection of deep technical execution and business systems thin
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white)
 ![HeyGen](https://img.shields.io/badge/HeyGen-FF4785?style=for-the-badge&logoColor=white)
 
-**Automation Platforms**
+**Automation**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
@@ -92,93 +95,87 @@ I work at the intersection of deep technical execution and business systems thin
 
 ---
 
-## Featured Projects
+## Systems I've Shipped
 
 <details>
-<summary><b>🔗 LinkedIn Lead Engine — 1,500 to 3,000+ Connections, Zero Platform Violations</b></summary>
-
+<summary><b>🔗 LinkedIn Lead Generation System — 1,500 to 3,000+ Connections, Zero Violations</b></summary>
 <br/>
 
-**The problem:** B2B sales teams hit a ceiling doing manual LinkedIn prospecting while automation risks account bans.
+**The gap:** B2B teams hit a ceiling on manual LinkedIn prospecting while automation attempts risk account bans.
 
-**What I built:** A 3-workflow system that scrapes engagement from competitor posts, filters down to decision-makers only (CEO, Founder, Owner), deduplicates globally across all campaigns, and verifies outreach history before any message goes out. ChatGPT sentiment analysis routes interested replies to Calendly instantly. Custom Next.js dashboard for real-time campaign visibility.
+**The system:** Three interconnected workflows. Scrapes engagement on competitor posts. Filters to decision-makers only. Deduplicates globally across all campaigns. Verifies outreach history via HeyReach before any message goes out. Sentiment analysis routes interested replies to Calendly instantly. Custom Next.js dashboard tracks campaigns in real time.
 
-**Results:** 1,500 to 3,000+ connections. Thousands of leads processed weekly. Zero LinkedIn violations. Response time went from hours to seconds.
+**What it delivered:** 1,500 to 3,000+ connections. Thousands of leads processed weekly. Zero LinkedIn violations. Response time from hours to seconds.
 
 `n8n` `Apify` `HeyReach` `Next.js` `TypeScript` `ChatGPT` `PostgreSQL`
 
 </details>
 
 <details>
-<summary><b>🎙️ AI Voice Qualification System — 750+ Leads Processed Monthly, Running Live</b></summary>
-
+<summary><b>🎙️ AI Voice Qualification System — 750+ Leads Processed Per Month, Live</b></summary>
 <br/>
 
-**The problem:** Sales teams waste hours manually cold-calling dormant mortgage leads with inconsistent follow-up.
+**The gap:** Sales teams waste hours manually calling dormant mortgage leads with inconsistent follow-up.
 
-**What I built:** An AI calling system that pulls dormant leads from CRM, runs outbound and inbound call handling, qualifies on property, mortgage, and credit criteria, and auto-advances pipeline stages based on call outcomes. Double-attempt logic, voicemail detection, and delayed follow-up scheduling built in.
+**The system:** Pulls dormant leads from CRM automatically. Runs outbound and inbound call flows. Qualifies on property, mortgage, and credit criteria. Auto-advances pipeline stages based on call outcome. Double-attempt logic, voicemail detection, and delayed follow-up built in.
 
-**Results:** 750+ leads processed per month consistently. Full call logging for compliance. Manual cold-calling effort replaced entirely.
+**What it delivered:** 750+ leads processed monthly. Full call logging for compliance. Manual cold-calling eliminated.
 
 `n8n` `RetellAI` `Vapi` `GoHighLevel` `PostgreSQL` `Zapier`
 
 </details>
 
 <details>
-<summary><b>📱 WhatsApp AI Assistant — 93% of Queries Resolved Without Human Intervention</b></summary>
-
+<summary><b>📱 WhatsApp AI Assistant — 93% of Queries Handled Without Human Input</b></summary>
 <br/>
 
-**The problem:** High-volume WhatsApp customer support causes slow replies, missed orders, and poor follow-up across multiple languages.
+**The gap:** High-volume WhatsApp support caused slow replies, missed orders, and inconsistent follow-up across languages.
 
-**What I built:** A multilingual WhatsApp Business assistant that handles product queries, creates orders and bills, detects crop disease from photos, runs admin broadcasts, and schedules meetings. No human needed for routine queries.
+**The system:** Multilingual WhatsApp Business assistant. Handles product queries, creates orders and bills, detects crop disease from photos, runs admin broadcasts, and books meetings. Covers routine queries end-to-end.
 
-**Results:** 93% of queries auto-resolved. 70% reduction in manual replies. 24/7 support and sales coverage.
+**What it delivered:** 93% of queries auto-resolved. 70% reduction in manual replies. 24/7 sales and support coverage.
 
 `n8n` `WhatsApp Cloud API` `Python` `Gemini` `ChatGPT` `Groq` `Google Sheets`
 
 </details>
 
 <details>
-<summary><b>🎬 UGC Video Ad Generator — Product Photo to Finished Video in Minutes</b></summary>
-
+<summary><b>🎬 UGC Video Ad Pipeline — Product Photo to Finished Ad in Minutes</b></summary>
 <br/>
 
-**The problem:** UGC-style video ads convert well but require creators, editing, and budget. Hard to scale.
+**The gap:** UGC-style video ads convert well but require creators, editing, and budget. Impossible to scale.
 
-**What I built:** Two-mode AI pipeline. Mode 1 analyses a product image, generates a realistic UGC scene, and creates an 8-second video. Mode 2 animates between two keyframes with AI-generated transition prompts. Polling and retry logic for reliability at scale.
+**The system:** Two-mode pipeline. Mode 1 analyses a product image, generates a UGC scene, and creates an 8-second video. Mode 2 animates between two keyframes with AI-generated transition prompts. Polling and retry logic for reliability at scale.
 
-**Results:** Brief to campaign-ready UGC video in minutes. Creative testing scaled without hiring creators.
+**What it delivered:** Product brief to campaign-ready creative in minutes. Creative testing at scale without a production team.
 
 `n8n` `GPT-4o` `Claude` `Fal.ai` `Google Drive`
 
 </details>
 
 <details>
-<summary><b>📈 Stock Market Intelligence System — Institution-Level Analysis in Seconds</b></summary>
-
+<summary><b>📈 Stock Market Intelligence System — Full Research in Seconds</b></summary>
 <br/>
 
-**The problem:** Traders and investors switch between tools for technicals, fundamentals, and news, which slows decisions and breaks context.
+**The gap:** Traders switch between multiple tools for technicals, fundamentals, and news. Slows decisions and loses context.
 
-**What I built:** A single webhook that fetches multi-timeframe candlestick data, fundamentals, and recent news in parallel, generates chart images with technical overlays, and delivers structured short-term and long-term recommendations through a dual-LLM pipeline.
+**The system:** Single webhook that fetches multi-timeframe candles, fundamentals, and recent news in parallel. Generates chart images. Delivers structured short-term and long-term recommendations through a dual-LLM pipeline.
 
-**Results:** Full research compressed to seconds. Consistent risk framing on every output. GPT-4o Mini for sentiment, Claude for final analysis.
+**What it delivered:** Full research compressed to seconds. Consistent risk framing on every output.
 
 `n8n` `TwelveData` `NewsAPI` `Chart-IMG` `GPT-4o Mini` `Claude`
 
 </details>
 
 <details>
-<summary><b>📣 LinkedIn Content Engine — Research, Write, Approve, Post</b></summary>
-
+<summary><b>📣 LinkedIn Content System — Research, Write, Approve, Post</b></summary>
 <br/>
 
-**The problem:** Good LinkedIn content takes research, writing, and design time. Most AI-generated posts read like AI wrote them.
+**The gap:** Good LinkedIn content takes research, writing, and design time. Most AI-generated posts read like AI.
 
-**What I built:** A 3-phase engine. Phase 1 scrapes top-performing posts by topic. Phase 2 runs a research agent to find fresh stats and angles, then a writer agent generates on-brand posts and images. Phase 3 is a Google Sheets approval loop where the human adds feedback and AI revises and regenerates images on request.
+**The system:** Phase 1 scrapes top-performing posts by topic. Phase 2 runs a research agent for fresh stats and angles, then a writer agent generates posts and images. Phase 3 is a Sheets-based approval loop where the human adds feedback, and the system revises and regenerates.
 
-**Results:** Research-backed posts in the brand's voice, with human oversight, at scale.
+**What it delivered:** Research-backed posts in the brand's voice, with human oversight, running consistently.
 
 `n8n` `Apify` `Claude` `Gemini` `GPT-4 Mini` `Google Sheets`
 
@@ -202,13 +199,12 @@ I work at the intersection of deep technical execution and business systems thin
 
 ---
 
-## Let's Connect
-
-Happy to talk about AI systems architecture, agentic product design, or building something that actually solves a real business problem.
-
 <div align="center">
 
+Happy to talk about system design, AI architecture, or what it takes to actually ship something that runs.
+
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salman-ahmed-ahmed/)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmansalu1078@gmail.com)
+&nbsp;
+[![Upwork](https://img.shields.io/badge/Work_Together_on_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~017fbf31a92f487cff)
 
 </div>
